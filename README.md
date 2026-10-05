@@ -22,6 +22,7 @@ Web
 
 - [Pomodoro Tools](https://pomodoro.tools) - The Best Web-based Pomodoro Timer App
 
+- [FocusTimerProBot](https://t.me/FocusTimerProBot) - A Telegram Mini App focus timer — free, with reminders and a public guide library at tg.zovo.one.
 Android
 --------
 
